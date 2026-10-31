@@ -1,0 +1,2 @@
+import{_ as e}from"./data.CBp2qVNS.js";function t(t){let n=t.items.map((t,n)=>`${n+1}. ${t.title} — ${[t.size,t.color].filter(Boolean).join(`, `)}\n   ${t.qty} × ${e(t.price)} = ${e(t.sum)}`);return[`Новый заказ №${t.number}`,`Сайт «Кровати и Ко» · ${t.created}`,``,`Имя: ${t.name}`,`Телефон: ${t.phone} · ${t.contact}`,`${t.delivery}${t.address?`: ${t.address}`:``}`,``,...n,``,`Итого: ${e(t.total)} без доставки`,...t.comment?[``,`Комментарий: ${t.comment}`]:[]].join(`
+`).replace(/ | /g,` `)}export{t};
