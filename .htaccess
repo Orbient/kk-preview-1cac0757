@@ -1,0 +1,54 @@
+# Боевой хостинг (Apache, Timeweb/Beget). На GitHub Pages этот файл ни на что не влияет.
+ErrorDocument 404 /404.html
+Options -Indexes
+AddDefaultCharset utf-8
+AddType application/xml .xml
+AddType video/mp4 .mp4
+AddType video/webm .webm
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  # Главное зеркало: https://<домен> без www — Яндекс склеивает зеркала по 301
+  RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+  RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+  RewriteCond %{HTTPS} off
+  RewriteCond %{HTTP:X-Forwarded-Proto} !https
+  RewriteCond %{HTTP_HOST} !^(localhost|127\.0\.0\.1)
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+  # Старые адреса фильтра /catalog/?type=… → разделы каталога со своими адресами (301, остальные параметры отбрасываем)
+  RewriteCond %{QUERY_STRING} (^|&)type=bunk(&|$)
+  RewriteRule ^catalog/?$ /catalog/dvuhyarusnye/? [R=301,L]
+  RewriteCond %{QUERY_STRING} (^|&)type=house(&|$)
+  RewriteRule ^catalog/?$ /catalog/domiki/? [R=301,L]
+  RewriteCond %{QUERY_STRING} (^|&)type=soft(&|$)
+  RewriteRule ^catalog/?$ /catalog/myagkie/? [R=301,L]
+  RewriteCond %{QUERY_STRING} (^|&)type=kids(&|$)
+  RewriteRule ^catalog/?$ /catalog/detskie/? [R=301,L]
+  RewriteCond %{QUERY_STRING} (^|&)type=loft(&|$)
+  RewriteRule ^catalog/?$ /catalog/cherdaki/? [R=301,L]
+  RewriteCond %{QUERY_STRING} (^|&)type=furniture(&|$)
+  RewriteRule ^catalog/?$ /catalog/mebel/? [R=301,L]
+  # Адрес без слэша на конце → со слэшем (одна версия страницы в индексе)
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_URI} !\.[a-z0-9]+$ [NC]
+  RewriteCond %{REQUEST_URI} !/$
+  RewriteRule ^(.*)$ /$1/ [R=301,L]
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/xml application/javascript application/json image/svg+xml
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/avif "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType video/mp4 "access plus 1 year"
+  ExpiresByType video/webm "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType text/html "access plus 0 seconds"
+</IfModule>

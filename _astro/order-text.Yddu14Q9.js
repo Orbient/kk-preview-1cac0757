@@ -1,0 +1,4 @@
+import{v as e}from"./data.yA08b2bQ.js";var t=e=>e<=9?`${e}\uFE0F\u20E3`:e===10?`🔟`:`${e}.`;function n(n){let r=n.items.map((n,r)=>{let i=[n.size,n.color].filter(Boolean).join(` · `);return`${t(r+1)} ${n.title}${i?`\n      ${i}`:``}\n      ${n.qty} × ${e(n.price)} = ${e(n.sum)}`});return[`🛏 Новый заказ №${n.number}`,`🌐 Сайт «Кроватико» · ${n.created}`,``,`👤 ${n.name}`,`📞 ${n.phone}`,`💬 Как связаться: ${n.contact}`,`${n.delivery===`Самовывоз`?`🏬 Самовывоз`:`🚚 Доставка`}${n.address?`: ${n.address}`:``}`,``,`🛒 Состав заказа:`,r.join(`
+
+`),``,`💰 Итого: ${e(n.total)} (без доставки)`,...n.comment?[``,`📝 Комментарий: ${n.comment}`]:[]].join(`
+`).replace(/ | /g,` `)}export{n as t};
