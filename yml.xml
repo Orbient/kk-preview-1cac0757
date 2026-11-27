@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-27 12:02">
+<shop>
+<name>Кроватико</name>
+<company>ИП Денисов Антон Алексеевич</company>
+<url>https://orbient.github.io/kk-preview-1cac0757/</url>
+<platform>Astro</platform>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories>
+<category id="1">Двухъярусные кровати</category>
+<category id="2">Кровати-домики</category>
+<category id="3">Мягкие детские кровати</category>
+<category id="4">Детские кровати с бортиком</category>
+<category id="5">Кровати-чердаки</category>
+<category id="6">Мебель для детской</category>
+</categories>
+<offers>
+<offer id="kk1ijjel9" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/sofa-h4/</url>
+<price from="true">17300</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/sofa-h4/1200/sofa-h4__ldsp__sheba-1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/sofa-h4/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/sofa-h4/photo/2.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-софа Н4 с каретной стяжкой</name>
+<vendor>Кроватико</vendor>
+<vendorCode>sofa-h4</vendorCode>
+<description><![CDATA[Мягкая спинка с каретной стяжкой и два ящика под кроватью. Кровать-софа для детской: днём — диван, ночью — полноценное спальное место. Спинка и боковины обиты мягкой тканью с каретной стяжкой, корпус из ЛДСП, под кроватью два ящика из МДФ. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1bz3mh9" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-015/</url>
+<price from="true">6400</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-015/1200/massiv-015__bort-1__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-015/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-015/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-015/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-015/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Массив 015»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-015</vendorCode>
+<description><![CDATA[Простая кровать из массива — без бортов или с бортом. Детская односпальная кровать из массива. Берите без бортов или с одним бортом — он не даст скатиться во сне. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1529dzh" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-014-015/</url>
+<price from="true">12300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-014-015/1200/massiv-014-015__b1-b1__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-014-015/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-014-015/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-014-015/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-014-015/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Массив 014 + 015» без лестницы</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-014-015</vendorCode>
+<description><![CDATA[Два спальных места: нижнее выкатывается на ночь. Кровать на двоих детей: верхнее спальное место и нижнее, которое днём задвигается под верхнее. В комнате остаётся место для игр. Размеры: 150×80 / 160×80, 160×80 / 170×80, 160×90 / 170×90, 170×80 / 180×80, 170×90 / 180×90, 180×80 / 190×80, 180×90 / 190×90, 190×80 / 200×80, 190×90 / 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1bg0hb1" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-014-015-torec/</url>
+<price from="true">14600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-014-015-torec/1200/massiv-014-015-torec__b1__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-014-015-torec/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-014-015-torec/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-014-015-torec/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-014-015-torec/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Массив 014 + 015» с лестницей с торца</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-014-015-torec</vendorCode>
+<description><![CDATA[Два спальных места и лестница с торца. Та же кровать на двоих с выкатным нижним местом, но с лестницей с торца — подниматься наверх удобнее и безопаснее. Размеры: 150×80 / 160×80, 160×80 / 170×80, 160×90 / 170×90, 170×80 / 180×80, 170×90 / 180×90, 180×80 / 190×80, 180×90 / 190×90, 190×80 / 200×80, 190×90 / 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk419rwu" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/lacy-010/</url>
+<price from="true">15000</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-010/1200/lacy-010__bp__sheba-1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-010/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-010/photo/2.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «010» Лейси люкс</name>
+<vendor>Кроватико</vendor>
+<vendorCode>lacy-010</vendorCode>
+<description><![CDATA[Мягкие стёганые панели на спинке и боковинах. Кровать с мягкими панелями вертикальной стёжки вдоль стены и по бокам: ребёнку не жёстко и не холодно у стены. Размеры: 160×80, 180×80, 190×80, 200×80, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kka6tfbw" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/lacy-010-corner/</url>
+<price from="true">12200</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-010-corner/1200/lacy-010-corner__bp__sheba-1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-010-corner/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-010-corner/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-010-corner/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-010-corner/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «010» Лейси люкс угловая</name>
+<vendor>Кроватико</vendor>
+<vendorCode>lacy-010-corner</vendorCode>
+<description><![CDATA[Угловая: мягкие панели вдоль стены и у изголовья. Угловая кровать с мягкими панелями вертикальной стёжки вдоль стены и с одной стороны. Ставится в угол — правое или левое исполнение. Размеры: 160×80, 180×80, 190×80, 200×80, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk5faxvo" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/lacy-001/</url>
+<price from="true">20300</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-001/1200/lacy-001__bp__sheba-1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-001/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-001/photo/2.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-домик «001» Лейси люкс</name>
+<vendor>Кроватико</vendor>
+<vendorCode>lacy-001</vendorCode>
+<description><![CDATA[Кровать-домик с трубой и мягкими панелями. Кровать-домик: каркас-крыша с трубой из массива и мягкие стёганые панели с трёх сторон. Своё уютное место, где хочется засыпать. Размеры: 160×80, 180×80, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk5za59m" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/lacy-003/</url>
+<price from="true">19300</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-003/1200/lacy-003__bp__sheba-1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-003/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-003/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-003/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/lacy-003/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-домик «003» Лейси люкс</name>
+<vendor>Кроватико</vendor>
+<vendorCode>lacy-003</vendorCode>
+<description><![CDATA[Кровать-домик с мягкими панелями и бортиком. Кровать-домик с каркасом-крышей из массива, мягкими стёгаными панелями с трёх сторон и бортиком от падения. Размеры: 160×80, 180×80, 190×80, 200×80, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kki28i0t" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/dino/</url>
+<price from="true">13900</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/dino/1200/dino__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/dino/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/dino/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/dino/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/dino/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Дино»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>dino</vendorCode>
+<description><![CDATA[Спинки с силуэтами динозавров и борт от падения. Детская кровать с фигурными спинками: в них вырезаны силуэты динозавров. Вдоль стены — борт, спереди — короткий борт от падения. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1x98ezg" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/batman/</url>
+<price from="true">13900</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/batman/1200/batman__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/batman/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/batman/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/batman/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/batman/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Бэтмэн»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>batman</vendorCode>
+<description><![CDATA[Спинки с летучей мышью и звёздами, борт от падения. Детская кровать с фигурными спинками: летучая мышь и звёзды. Вдоль стены — борт, спереди — короткий борт от падения. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk9gpbu8" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/butterflies/</url>
+<price from="true">13900</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/butterflies/1200/butterflies__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/butterflies/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/butterflies/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/butterflies/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/butterflies/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Бабочки»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>butterflies</vendorCode>
+<description><![CDATA[Спинки с бабочками и борт от падения. Детская кровать с фигурными спинками: в них вырезаны бабочки. Вдоль стены — борт, спереди — короткий борт от падения. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkr8klye" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/stars/</url>
+<price from="true">13900</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/stars/1200/stars__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/stars/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/stars/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/stars/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/stars/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Звёздочки»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>stars</vendorCode>
+<description><![CDATA[Спинки со звёздами и борт от падения. Детская кровать с фигурными спинками: в них вырезаны звёзды. Вдоль стены — борт, спереди — короткий борт от падения. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1vzfjh7" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-005-xl/</url>
+<price from="true">23800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-xl/1200/massiv-005-xl__ladder-end__base__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-xl/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-xl/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-xl/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-xl/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Массив 005» с увеличенным спальным местом</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-005-xl</vendorCode>
+<description><![CDATA[Двухъярусная: внизу место шириной 120 см. Двухъярусная кровать-домик из массива: наверху место шириной 90 см, внизу — 120 см. Лестница с торца или с фасада — цена одна. Размеры: 160×90 / 160×120, 180×90 / 180×120, 190×90 / 190×120, 200×90 / 200×120.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1al5m0e" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-010/</url>
+<price from="true">6800</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010/1200/massiv-010__bort-1__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010/photo/2.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Массив 010»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-010</vendorCode>
+<description><![CDATA[Простая кровать из массива с бортом по желанию. Детская односпальная кровать из массива. Без бортов, с одинарным или двойным бортом от падения. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkfatchx" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-010-combo/</url>
+<price from="true">7500</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-combo/1200/massiv-010-combo__v1__combo__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-combo/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-combo/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-combo/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-combo/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Массив 010» комбо</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-010-combo</vendorCode>
+<description><![CDATA[Белая кровать с натуральным деревом. Кровать «Массив 010» в двух цветах: белый и натуральное дерево без покраски. Два варианта сочетания — как на фото. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1ikwucq" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-010-mdf/</url>
+<price from="true">14500</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-mdf/1200/massiv-010-mdf__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-mdf/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-mdf/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-mdf/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-mdf/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Массив 010» МДФ</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-010-mdf</vendorCode>
+<description><![CDATA[Спинки и борт из МДФ с прорезями. Детская кровать из массива со спинками и бортом из МДФ с вертикальными прорезями. Размеры: 160×80, 180×80, 160×90, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk17q4tz5" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-010-mdf-combo/</url>
+<price from="true">14100</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-mdf-combo/1200/massiv-010-mdf-combo__combo__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-mdf-combo/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-mdf-combo/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-mdf-combo/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-mdf-combo/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Массив 010» МДФ комбо</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-010-mdf-combo</vendorCode>
+<description><![CDATA[Спинки из МДФ, белый и натуральное дерево. Кровать «Массив 010» МДФ в двух цветах: белые спинки и борт из МДФ с прорезями, ножки и стойки — натуральное дерево. Размеры: 160×80, 180×80, 160×90, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1od8jbj" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-010-house/</url>
+<price from="true">7400</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-house/1200/massiv-010-house__bort-1__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-house/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-house/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-house/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-house/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Массив 010» домик</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-010-house</vendorCode>
+<description><![CDATA[Изголовье в форме домика. Детская кровать из массива с изголовьем-домиком. Без бортов, с одинарным или двойным бортом от падения. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1xpyvdc" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-010-house-combo/</url>
+<price from="true">9500</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-house-combo/1200/massiv-010-house-combo__bort-1__combo__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-house-combo/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-house-combo/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-house-combo/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-house-combo/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Массив 010» домик комбо</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-010-house-combo</vendorCode>
+<description><![CDATA[Изголовье-домик, белый и натуральное дерево. Кровать с изголовьем-домиком в двух цветах: белые борта и спинки, стойки — натуральное дерево. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkdvb2z1" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-010-tufted/</url>
+<price from="true">15900</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-tufted/1200/massiv-010-tufted__base__white__sheba-1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-tufted/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-tufted/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-tufted/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-010-tufted/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Массив 010» с каретной стяжкой</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-010-tufted</vendorCode>
+<description><![CDATA[Мягкая спинка с каретной стяжкой вдоль стены. Кровать из массива с мягкой спинкой вдоль стены: обивка с каретной стяжкой и пуговицами. Без бортов, с одинарным или двойным бортом. Размеры: 160×80, 180×80, 160×90, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1cj5zd6" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-003/</url>
+<price from="true">13100</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003/1200/massiv-003__bort-1__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-домик «Массив 003»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-003</vendorCode>
+<description><![CDATA[Кровать-домик с каркасом-крышей. Кровать-домик из массива: стойки и каркас-крыша над спальным местом. Один борт в комплекте, можно с двойным. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1lzrba9" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-003-combo/</url>
+<price from="true">16000</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-combo/1200/massiv-003-combo__bort-1__combo__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-combo/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-combo/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-combo/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-combo/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-домик «Массив 003» комбо</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-003-combo</vendorCode>
+<description><![CDATA[Кровать-домик: белый и натуральное дерево. Кровать-домик «Массив 003» в двух цветах: белые борта и спинки, каркас-крыша — натуральное дерево. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk17t7k2e" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-003-mdf/</url>
+<price from="true">20700</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-mdf/1200/massiv-003-mdf__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-mdf/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-mdf/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-mdf/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-mdf/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-домик «Массив 003» МДФ</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-003-mdf</vendorCode>
+<description><![CDATA[Кровать-домик, борта из МДФ с прорезями. Кровать-домик из массива с каркасом-крышей, спинки и борт — из МДФ с вертикальными прорезями. Размеры: 160×80, 180×80, 160×90, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk164dky5" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-003-mdf-combo/</url>
+<price from="true">24600</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-mdf-combo/1200/massiv-003-mdf-combo__combo__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-mdf-combo/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-mdf-combo/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-mdf-combo/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-mdf-combo/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-домик «Массив 003» МДФ комбо</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-003-mdf-combo</vendorCode>
+<description><![CDATA[Кровать-домик из массива и МДФ в двух цветах. Кровать-домик «Массив 003» МДФ в двух цветах: белый и натуральное дерево без покраски. Размеры: 160×80, 180×80, 160×90, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1bz6rz8" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-001/</url>
+<price from="true">14300</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001/1200/massiv-001__bort-2__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001/photo/2.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-домик «Массив 001»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-001</vendorCode>
+<description><![CDATA[Кровать-домик с фасадом-домиком и трубой. Кровать-домик из массива: фасад в форме домика с трубой на крыше. Один борт в комплекте, можно с двойным. Размеры: 160×80, 180×80, 160×90, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkh3gm4j" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-001-combo/</url>
+<price from="true">17100</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-combo/1200/massiv-001-combo__bort-1__combo__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-combo/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-combo/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-combo/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-combo/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-домик «Массив 001» комбо</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-001-combo</vendorCode>
+<description><![CDATA[Кровать-домик с трубой: белый и натуральное дерево. Кровать-домик «Массив 001» в двух цветах: белые борта, каркас-домик с трубой — натуральное дерево. Размеры: 160×80, 180×80, 160×90, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk5n08cs" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-001-mdf/</url>
+<price from="true">22100</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-mdf/1200/massiv-001-mdf__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-mdf/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-mdf/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-mdf/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-mdf/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-домик «Массив 001» МДФ</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-001-mdf</vendorCode>
+<description><![CDATA[Кровать-домик с трубой, борт из МДФ с прорезями. Кровать-домик из массива с трубой на крыше, спинки и борт — из МДФ с вертикальными прорезями. Размеры: 160×80, 180×80, 160×90, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1av8d7c" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-005/</url>
+<price from="true">17100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005/1200/massiv-005__base__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Двухъярусная кровать «Массив 005»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-005</vendorCode>
+<description><![CDATA[Двухъярусная кровать-домик с лестницей. Двухъярусная кровать из массива с каркасом-крышей и вертикальной лестницей. Можно с двойным бортом — 500 или 1000. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1g5nnuf" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-005-combo/</url>
+<price from="true">22100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-combo/1200/massiv-005-combo__base__combo__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-combo/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-combo/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-combo/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-combo/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Двухъярусная кровать «Массив 005» комбо</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-005-combo</vendorCode>
+<description><![CDATA[Двухъярусная кровать-домик в двух цветах. Двухъярусная кровать-домик «Массив 005»: белые борта и лестница, каркас и крыша — натуральное дерево. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkdlvopu" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-005-combo-dresser/</url>
+<price from="true">48800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-combo-dresser/1200/massiv-005-combo-dresser__base__combo__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-combo-dresser/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-combo-dresser/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-combo-dresser/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-combo-dresser/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Двухъярусная кровать «Массив 005» комбо с лестницей-комодом</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-005-combo-dresser</vendorCode>
+<description><![CDATA[Двухъярусная с лестницей-комодом, два цвета. Двухъярусная кровать-домик в двух цветах с лестницей-комодом: ступени — это ящики, сбоку поручень. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk18ziefh" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-005-dresser-end/</url>
+<price from="true">41200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-dresser-end/1200/massiv-005-dresser-end__base__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-dresser-end/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-dresser-end/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-dresser-end/photo/3.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Двухъярусная кровать «Массив 005» с лестницей-комодом с торца</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-005-dresser-end</vendorCode>
+<description><![CDATA[Двухъярусная с лестницей-комодом с торца. Двухъярусная кровать-домик из массива с лестницей-комодом с торца: ступени — это ящики, сбоку поручень. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1q83rnj" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-005-dresser-front/</url>
+<price from="true">41200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-dresser-front/1200/massiv-005-dresser-front__base__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-dresser-front/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-dresser-front/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-dresser-front/photo/3.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Двухъярусная кровать «Массив 005» с лестницей-комодом спереди</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-005-dresser-front</vendorCode>
+<description><![CDATA[Двухъярусная с лестницей-комодом спереди. Двухъярусная кровать-домик из массива с лестницей-комодом вдоль кровати: ступени — это ящики, сбоку поручень. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1a16emg" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-012/</url>
+<price from="true">16400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-012/1200/massiv-012__base__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-012/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-012/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-012/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-012/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Двухъярусная кровать «Массив 012»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-012</vendorCode>
+<description><![CDATA[Двухъярусная кровать без крыши. Двухъярусная кровать из массива с вертикальной лестницей и бортами на обоих ярусах. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1i7jnj9" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-012-dresser/</url>
+<price from="true">40500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-012-dresser/1200/massiv-012-dresser__base__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-012-dresser/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-012-dresser/photo/2.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Двухъярусная кровать «Массив 012» с лестницей-комодом</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-012-dresser</vendorCode>
+<description><![CDATA[Двухъярусная с лестницей-комодом. Двухъярусная кровать из массива с лестницей-комодом: ступени — это ящики, сбоку поручень. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1a19k4f" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-008/</url>
+<price from="true">21400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-008/1200/massiv-008__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-008/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-008/photo/2.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Двухъярусная кровать «Массив 008»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-008</vendorCode>
+<description><![CDATA[Двухъярусная кровать-домик, лестница по центру. Двухъярусная кровать из массива с каркасом-крышей и лестницей по центру фасада. Размеры: 160×80, 180×80, 160×90, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1qqfqun" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-008-noroof/</url>
+<price from="true">19500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-008-noroof/1200/massiv-008-noroof__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-008-noroof/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-008-noroof/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-008-noroof/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-008-noroof/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Двухъярусная кровать «Массив 008» без крыши</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-008-noroof</vendorCode>
+<description><![CDATA[Двухъярусная, лестница по центру. Двухъярусная кровать из массива без крыши, с лестницей по центру фасада. Размеры: 160×80, 180×80, 160×90, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk74i0iw" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-006-house/</url>
+<price from="true">16300</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house/1200/massiv-006-house__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-чердак «Массив 006» домик</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-006-house</vendorCode>
+<description><![CDATA[Кровать-чердак с крышей-домиком. Кровать-чердак из массива: спальное место наверху, под ним — свободное место для стола или игр. Каркас-крыша и лестница. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkspe8g7" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-006-house-combo/</url>
+<price from="true">20600</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house-combo/1200/massiv-006-house-combo__combo__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house-combo/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house-combo/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house-combo/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house-combo/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-чердак «Массив 006» домик комбо</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-006-house-combo</vendorCode>
+<description><![CDATA[Кровать-чердак с крышей, два цвета. Кровать-чердак «Массив 006» домик в двух цветах: белые борта и лестница, стойки и крыша — натуральное дерево. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkgxfwg7" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-006-combo-dresser/</url>
+<price from="true">46300</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-combo-dresser/1200/massiv-006-combo-dresser__roof__combo__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-combo-dresser/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-combo-dresser/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-combo-dresser/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-combo-dresser/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-чердак «Массив 006» комбо с лестницей-комодом</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-006-combo-dresser</vendorCode>
+<description><![CDATA[Кровать-чердак с лестницей-комодом, два цвета. Кровать-чердак в двух цветах с лестницей-комодом: ступени — это ящики. С крышей-домиком или без крыши. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1l5rlol" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-006-house-dresser/</url>
+<price from="true">40400</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house-dresser/1200/massiv-006-house-dresser__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house-dresser/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house-dresser/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house-dresser/photo/3.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-чердак «Массив 006» домик с лестницей-комодом</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-006-house-dresser</vendorCode>
+<description><![CDATA[Кровать-чердак с крышей и лестницей-комодом. Кровать-чердак из массива с каркасом-крышей и лестницей-комодом: ступени — это ящики, сбоку поручень. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkrrb8xx" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-006-noroof/</url>
+<price from="true">15700</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-noroof/1200/massiv-006-noroof__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-noroof/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-noroof/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-noroof/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-noroof/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-чердак «Массив 006» без крыши</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-006-noroof</vendorCode>
+<description><![CDATA[Кровать-чердак без крыши. Кровать-чердак из массива: спальное место наверху, под ним — свободное место для стола или игр. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1nrxchc" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-006-noroof-dresser/</url>
+<price from="true">39800</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-noroof-dresser/1200/massiv-006-noroof-dresser__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-noroof-dresser/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-noroof-dresser/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-noroof-dresser/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-noroof-dresser/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-чердак «Массив 006» без крыши с лестницей-комодом</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-006-noroof-dresser</vendorCode>
+<description><![CDATA[Кровать-чердак с лестницей-комодом. Кровать-чердак из массива без крыши, с лестницей-комодом: ступени — это ящики, сбоку поручень. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk19r9yfg" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-009/</url>
+<price from="true">4500</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-009/1200/massiv-009__base__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-009/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-009/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-009/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-009/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Массив 009»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-009</vendorCode>
+<description><![CDATA[Кровать с изголовьем, борта с двух сторон по желанию. Простая кровать из массива с изголовьем. Без бортов, с одинарными или двойными бортами с двух сторон. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkneifo1" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/house-ldsp/</url>
+<price from="true">18400</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/house-ldsp/1200/house-ldsp__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/house-ldsp/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/house-ldsp/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/house-ldsp/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/house-ldsp/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-домик ЛДСП</name>
+<vendor>Кроватико</vendor>
+<vendorCode>house-ldsp</vendorCode>
+<description><![CDATA[Кровать-домик из ЛДСП с ящиком. Кровать-домик из ЛДСП с бортами-прорезями. С ящиком под кроватью или без. Размеры: 160×80.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkh8szn0" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/neo-wardrobe/</url>
+<price from="true">25000</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/neo-wardrobe/1200/neo-wardrobe__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/neo-wardrobe/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/neo-wardrobe/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/neo-wardrobe/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/neo-wardrobe/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Шкаф НЕО</name>
+<vendor>Кроватико</vendor>
+<vendorCode>neo-wardrobe</vendorCode>
+<description><![CDATA[Двустворчатый шкаф с ящиками. Двустворчатый шкаф: внутри полки, штанга и два выдвижных ящика. Размеры: Один размер.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk13ekusz" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/neo-house-wardrobe/</url>
+<price from="true">26800</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/neo-house-wardrobe/1200/neo-house-wardrobe__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/neo-house-wardrobe/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/neo-house-wardrobe/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/neo-house-wardrobe/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/neo-house-wardrobe/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Шкаф-домик НЕО</name>
+<vendor>Кроватико</vendor>
+<vendorCode>neo-house-wardrobe</vendorCode>
+<description><![CDATA[Шкаф с фигурным верхом и окошками. Двустворчатый шкаф с фигурным верхом и окошками на дверцах. Внутри полки, штанга и два ящика. Размеры: 1000×1950×500 мм.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1vyo2b8" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/neo-dresser/</url>
+<price from="true">15800</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/neo-dresser/1200/neo-dresser__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/neo-dresser/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/neo-dresser/photo/2.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Комод НЕО</name>
+<vendor>Кроватико</vendor>
+<vendorCode>neo-dresser</vendorCode>
+<description><![CDATA[Комод на четыре ящика. Комод с четырьмя выдвижными ящиками на направляющих. Размеры: 800×850×480 мм.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1fs9o9g" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/house-nightstand/</url>
+<price from="true">5400</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/house-nightstand/1200/house-nightstand__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/house-nightstand/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/house-nightstand/photo/2.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Тумба-домик</name>
+<vendor>Кроватико</vendor>
+<vendorCode>house-nightstand</vendorCode>
+<description><![CDATA[Тумба-домик с двумя ящиками. Тумба в форме домика: два ящика и открытая полка под крышей. Корпус ЛДСП, крыша МДФ. Размеры: 400×600×360 мм.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1ltz8qq" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/house-shelf/</url>
+<price from="true">7100</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/house-shelf/1200/house-shelf__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/house-shelf/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/house-shelf/photo/2.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Стеллаж-домик</name>
+<vendor>Кроватико</vendor>
+<vendorCode>house-shelf</vendorCode>
+<description><![CDATA[Узкий стеллаж-домик. Узкий стеллаж в форме домика с открытыми полками. Размеры: 400×1520×400 мм.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk59emia" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/skandi-wardrobe/</url>
+<price from="true">23700</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-wardrobe/1200/skandi-wardrobe__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-wardrobe/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-wardrobe/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-wardrobe/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-wardrobe/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Шкаф СКАНДИ</name>
+<vendor>Кроватико</vendor>
+<vendorCode>skandi-wardrobe</vendorCode>
+<description><![CDATA[Шкаф на деревянных ножках. Двустворчатый шкаф в скандинавском стиле на деревянных ножках. Фасады ЛДСП или МДФ. Размеры: 940×1820×520 мм.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkdw6k0f" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/skandi-desk/</url>
+<price from="true">6700</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-desk/1200/skandi-desk__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-desk/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-desk/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-desk/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-desk/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Стол СКАНДИ</name>
+<vendor>Кроватико</vendor>
+<vendorCode>skandi-desk</vendorCode>
+<description><![CDATA[Письменный стол с двумя ящиками. Письменный стол на деревянных ножках с двумя ящиками. Фасады и столешница ЛДСП или МДФ. Размеры: 1200×750×550 мм.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kksp0rdu" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/skandi-desk-lite/</url>
+<price from="true">3480</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-desk-lite/1200/skandi-desk-lite__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-desk-lite/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-desk-lite/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-desk-lite/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-desk-lite/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Стол СКАНДИ Лайт</name>
+<vendor>Кроватико</vendor>
+<vendorCode>skandi-desk-lite</vendorCode>
+<description><![CDATA[Стол на ножках — три длины. Компактный стол на деревянных ножках, столешница МДФ. Три длины: 80, 100 и 120 см. Размеры: 800×750×550 мм, 1000×750×550 мм, 1200×750×550 мм.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1xsmqns" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/skandi-nightstand/</url>
+<price from="true">5900</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-nightstand/1200/skandi-nightstand__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-nightstand/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-nightstand/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-nightstand/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-nightstand/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Тумба СКАНДИ</name>
+<vendor>Кроватико</vendor>
+<vendorCode>skandi-nightstand</vendorCode>
+<description><![CDATA[Тумба с двумя ящиками. Тумба на деревянных ножках с двумя ящиками. Фасады ЛДСП или МДФ. Размеры: 480×570×425 мм.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk55c8h7" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/skandi-nightstand-lite/</url>
+<price from="true">3200</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-nightstand-lite/1200/skandi-nightstand-lite__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-nightstand-lite/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-nightstand-lite/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-nightstand-lite/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-nightstand-lite/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Тумба СКАНДИ Лайт</name>
+<vendor>Кроватико</vendor>
+<vendorCode>skandi-nightstand-lite</vendorCode>
+<description><![CDATA[Низкая тумба с двумя ящиками. Низкая тумба на деревянных ножках с двумя ящиками. Фасады ЛДСП или МДФ. Размеры: 480×440×420 мм.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1o4tgoa" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/skandi-dresser/</url>
+<price from="true">15600</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-dresser/1200/skandi-dresser__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-dresser/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-dresser/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-dresser/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-dresser/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Комод СКАНДИ</name>
+<vendor>Кроватико</vendor>
+<vendorCode>skandi-dresser</vendorCode>
+<description><![CDATA[Комод с тремя ящиками. Комод на деревянных ножках с тремя ящиками. Фасады ЛДСП или МДФ. Размеры: 920×950×530 мм.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kksuak89" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/skandi-dresser-lite/</url>
+<price from="true">10600</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-dresser-lite/1200/skandi-dresser-lite__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-dresser-lite/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-dresser-lite/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-dresser-lite/photo/3.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Комод СКАНДИ Лайт</name>
+<vendor>Кроватико</vendor>
+<vendorCode>skandi-dresser-lite</vendorCode>
+<description><![CDATA[Комод с тремя ящиками, Лайт. Комод на деревянных ножках с тремя ящиками, чуть ниже обычного СКАНДИ. Фасады ЛДСП или МДФ. Размеры: 920×840×530 мм.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1h6ernq" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/skandi-shelf/</url>
+<price from="true">12500</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-shelf/1200/skandi-shelf__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-shelf/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-shelf/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/skandi-shelf/photo/3.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Стеллаж СКАНДИ</name>
+<vendor>Кроватико</vendor>
+<vendorCode>skandi-shelf</vendorCode>
+<description><![CDATA[Стеллаж со шкафчиком и тумбой. Широкий стеллаж на ножках: открытые полки, узкий шкаф с дверцей и закрытая тумба внизу. Размеры: 1400×1600×420 мм.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk13yhz5b" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/soft-sofa-segment/</url>
+<price from="true">26600</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-sofa-segment/1200/soft-sofa-segment__std__sheba-1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-sofa-segment/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-sofa-segment/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-sofa-segment/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-sofa-segment/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-диван СОФТ сегментная</name>
+<vendor>Кроватико</vendor>
+<vendorCode>soft-sofa-segment</vendorCode>
+<description><![CDATA[Мягкий диван-кровать со стёганой спинкой. Кровать-диван полностью в мягкой обивке: спинка с вертикальной стёжкой, мягкий борт и выдвижной ящик. Размеры: 160×80, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk8ydxhd" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/soft-segment-corner/</url>
+<price from="true">25500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-segment-corner/1200/soft-segment-corner__std__sheba-1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-segment-corner/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-segment-corner/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-segment-corner/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-segment-corner/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать СОФТ сегментная угловая</name>
+<vendor>Кроватико</vendor>
+<vendorCode>soft-segment-corner</vendorCode>
+<description><![CDATA[Угловая мягкая кровать со стёганой спинкой. Угловая кровать в мягкой обивке: стёганая спинка вдоль стены и у изголовья, мягкий борт и выдвижной ящик. Размеры: 160×80, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk6mang5" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/soft-corner/</url>
+<price from="true">24500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-corner/1200/soft-corner__std__sheba-1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-corner/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-corner/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-corner/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-corner/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать СОФТ угловая</name>
+<vendor>Кроватико</vendor>
+<vendorCode>soft-corner</vendorCode>
+<description><![CDATA[Угловая мягкая кровать с бортом. Угловая кровать в мягкой обивке с гладкой спинкой, мягким бортом и выдвижным ящиком. Размеры: 160×80, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1lnfipr" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/soft-sofa/</url>
+<price from="true">25500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-sofa/1200/soft-sofa__std__sheba-1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-sofa/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-sofa/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-sofa/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-sofa/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-диван СОФТ</name>
+<vendor>Кроватико</vendor>
+<vendorCode>soft-sofa</vendorCode>
+<description><![CDATA[Мягкий диван-кровать с бортом. Кровать-диван в мягкой обивке: высокая спинка, подлокотники, мягкий борт и выдвижной ящик. Размеры: 160×80, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1cl1hpp" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/soft-010-segment/</url>
+<price from="true">11800</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-010-segment/1200/soft-010-segment__white__sheba-1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-010-segment/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-010-segment/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-010-segment-fur/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-010-segment-fur/photo/2.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «010» СОФТ сегментная</name>
+<vendor>Кроватико</vendor>
+<vendorCode>soft-010-segment</vendorCode>
+<description><![CDATA[Каркас из массива и мягкие стёганые панели. Белая кровать из массива с мягкими панелями вертикальной стёжки по периметру. Борт 950 мм в комплекте. Размеры: 160×80, 180×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk140388r" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/olivia/</url>
+<price from="true">26000</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/olivia/1200/olivia__rossi-12.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/olivia/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/olivia/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/olivia/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/olivia/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Оливия»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>olivia</vendorCode>
+<description><![CDATA[Мягкая кровать с бортом и матрасом, велюр или мех. Мягкая детская кровать с округлыми спинками на деревянных ножках. Мягкий съёмный борт и матрас входят в цену. Размеры: 140×80, 160×80, 180×80.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1fg7swj" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/soft-010-matryoshka/</url>
+<price from="true">25400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-010-matryoshka/1200/soft-010-matryoshka__velour__sheba-1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-010-matryoshka/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-010-matryoshka/photo/2.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «010» СОФТ матрёшка</name>
+<vendor>Кроватико</vendor>
+<vendorCode>soft-010-matryoshka</vendorCode>
+<description><![CDATA[Два места и мягкие панели. Кровать-матрёшка: нижнее место выкатывается из-под верхнего. Каркас из массива, мягкие панели — велюр или мех. Размеры: 150×80 / 140×80, 160×80 / 150×80, 170×80 / 160×80, 180×80 / 170×80, 180×90 / 170×90, 190×80 / 180×80, 190×90 / 180×90, 200×80 / 190×80, 200×90 / 190×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk18x4ucl" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-020/</url>
+<price from="true">6000</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-020/1200/massiv-020__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-020/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-020/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-020/photo/3.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Массив 020»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-020</vendorCode>
+<description><![CDATA[Простая кровать с бортом, три размера. Простая детская кровать из массива: белая целиком или белая с натуральными ножками. Размеры: 140×70, 160×80, 180×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkof0y6k" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-001-matryoshka/</url>
+<price from="true">26300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-matryoshka/1200/massiv-001-matryoshka__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-matryoshka/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-matryoshka/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-matryoshka/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-001-matryoshka/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-домик «Массив 001» матрёшка</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-001-matryoshka</vendorCode>
+<description><![CDATA[Кровать-домик с выкатным нижним местом. Кровать-домик из массива с выкатным нижним спальным местом и лестницей с торца. Размеры: 180×80 / 170×80, 180×90 / 170×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkw7ayti" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-003-matryoshka-torec/</url>
+<price from="true">19300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-matryoshka-torec/1200/massiv-003-matryoshka-torec__base__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-matryoshka-torec/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-matryoshka-torec/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-matryoshka-torec/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-matryoshka-torec/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-домик «Массив 003» матрёшка с лестницей с торца</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-003-matryoshka-torec</vendorCode>
+<description><![CDATA[Домик с выкатным местом и лестницей с торца. Кровать-домик из массива: нижнее место выкатывается из-под верхнего, наверх — лестница с торца. Размеры: 160×80 / 170×80, 160×90 / 170×90, 170×80 / 180×80, 170×90 / 180×90, 180×80 / 190×80, 180×90 / 190×90, 190×80 / 200×80, 190×90 / 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kku5bjq6" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-003-matryoshka/</url>
+<price from="true">17000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-matryoshka/1200/massiv-003-matryoshka__b1-b1__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-matryoshka/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-matryoshka/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-matryoshka/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-003-matryoshka/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-домик «Массив 003» матрёшка</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-003-matryoshka</vendorCode>
+<description><![CDATA[Кровать-домик с выкатным нижним местом. Кровать-домик из массива: нижнее место днём задвигается под верхнее. Без бортов или с бортами. Размеры: 160×80 / 170×80, 160×90 / 170×90, 170×80 / 180×80, 170×90 / 180×90, 180×80 / 190×80, 180×90 / 190×90, 190×80 / 200×80, 190×90 / 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk1vpakdf" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/soft-003-matryoshka/</url>
+<price from="true">29700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-003-matryoshka/1200/soft-003-matryoshka__velour__sheba-1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-003-matryoshka/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/soft-003-matryoshka/photo/2.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-домик «003» СОФТ матрёшка</name>
+<vendor>Кроватико</vendor>
+<vendorCode>soft-003-matryoshka</vendorCode>
+<description><![CDATA[Домик с выкатным местом и мягкими панелями. Кровать-домик с выкатным нижним местом и мягкими панелями на обоих ярусах — велюр или мех. Размеры: 150×80 / 140×80, 160×80 / 150×80, 170×80 / 160×80, 180×80 / 170×80, 180×90 / 170×90, 190×80 / 180×80, 190×90 / 180×90, 200×80 / 190×80, 200×90 / 190×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk85mg2j" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/yagodka/</url>
+<price from="true">5000</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/yagodka/1200/yagodka__white__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/yagodka/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/yagodka/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/yagodka/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/yagodka/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать «Ягодка»</name>
+<vendor>Кроватико</vendor>
+<vendorCode>yagodka</vendorCode>
+<description><![CDATA[Простая белая кровать 160×80. Белая детская кровать с изголовьем и коротким бортом. Размеры: 160×80.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkqwkery" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-005-140/</url>
+<price from="true">20500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-140/1200/massiv-005-140__base__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-140/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-140/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-140/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-005-140/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Двухъярусная кровать «Массив 005» (140)</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-005-140</vendorCode>
+<description><![CDATA[Двухъярусная кровать-домик, высота 140. Двухъярусная кровать-домик из массива: от пола до верхней царги 140 см. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkmmzuhq" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-012-140/</url>
+<price from="true">19800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-012-140/1200/massiv-012-140__base__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-012-140/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-012-140/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-012-140/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-012-140/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Двухъярусная кровать «Массив 012» (140)</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-012-140</vendorCode>
+<description><![CDATA[Двухъярусная кровать, высота 140. Двухъярусная кровать из массива без крыши: от пола до верхней царги 140 см. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kk258u2m" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-006-house-140/</url>
+<price from="true">19700</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house-140/1200/massiv-006-house-140__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house-140/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house-140/photo/2.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house-140/photo/3.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-house-140/photo/4.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-чердак «Массив 006» домик (140)</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-006-house-140</vendorCode>
+<description><![CDATA[Кровать-чердак с крышей, высота 140. Кровать-чердак из массива с крышей-домиком: от пола до верхней царги 140 см. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="kkp0k4g7" available="true">
+<url>https://orbient.github.io/kk-preview-1cac0757/catalog/massiv-006-noroof-140/</url>
+<price from="true">19100</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-noroof-140/1200/massiv-006-noroof-140__bp__none.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-noroof-140/photo/1.webp</picture><picture>https://orbient.github.io/kk-preview-1cac0757/img/catalog/massiv-006-noroof-140/photo/2.webp</picture>
+<delivery>true</delivery>
+<pickup>true</pickup>
+<name>Кровать-чердак «Массив 006» без крыши (140)</name>
+<vendor>Кроватико</vendor>
+<vendorCode>massiv-006-noroof-140</vendorCode>
+<description><![CDATA[Кровать-чердак без крыши, высота 140. Кровать-чердак из массива без крыши: от пола до верхней царги 140 см. Размеры: 160×80, 180×80, 190×80, 200×80, 160×90, 180×90, 190×90, 200×90.]]></description>
+<sales_notes>Оплата после звонка менеджера, без предоплаты на сайте</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
